@@ -64,10 +64,10 @@ if (!isset($_SESSION['usuario_id'])) {
     <main>    
     
 
-        <a href="index2.php">Pagina 2</a>
+        <a href="index.php">Pagina Home</a>
 
-        <h2>Inicio de la app</h2>
-        <p>Este es el inicio de la aplicacion o dashboard</p>
+        <h2>Hola mundo!</h2>
+        <p>Esta es una segunda pagina.</p>
 
 
     </main>
